@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/beer_api_digital_innovation_one/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/beer_api_digital_innovation_one/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cadastro-clientes/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cadastro-clientes/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dscatalog/backend-dscatalog/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dscatalog/backend-dscatalog/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dscatalog/backend-dscatalog_ant/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dscatalog/backend-dscatalog_ant/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exemplo-test-spring-main/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exemplo-test-spring-main/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tests-spring-udemy/01-sw-planet-api_unidade/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tests-spring-udemy/01-sw-planet-api_unidade/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tests-spring-udemy/02-sw-planet-api_subcutaneos/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tests-spring-udemy/02-sw-planet-api_subcutaneos/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tests-spring-udemy/03-sw-planet-api_integracao/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tests-spring-udemy/03-sw-planet-api_integracao/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tests-spring-udemy/sw-planet-api-completo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tests-spring-udemy/sw-planet-api-completo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tests-spring-udemy/sw-planet-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tests-spring-udemy/sw-planet-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tests-spring-udemy/sw-planet-api_integracao/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tests-spring-udemy/sw-planet-api_integracao/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tests-spring-udemy/sw-planet-api_subcutaneos/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tests-spring-udemy/sw-planet-api_subcutaneos/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

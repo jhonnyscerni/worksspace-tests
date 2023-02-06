@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/beer_api_digital_innovation_one/beerstock.iml" filepath="$PROJECT_DIR$/beer_api_digital_innovation_one/beerstock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cadastro-clientes/cadastro-clientes.iml" filepath="$PROJECT_DIR$/cadastro-clientes/cadastro-clientes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dscatalog/backend-dscatalog/dscatalog.iml" filepath="$PROJECT_DIR$/dscatalog/backend-dscatalog/dscatalog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dscatalog/backend-dscatalog_ant/dscatalog (1).iml" filepath="$PROJECT_DIR$/dscatalog/backend-dscatalog_ant/dscatalog (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/tests-spring-udemy/sw-planet-api-completo/sw-planet-api.iml" filepath="$PROJECT_DIR$/tests-spring-udemy/sw-planet-api-completo/sw-planet-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tests-spring-udemy/03-sw-planet-api_integracao/sw-planet-api (1).iml" filepath="$PROJECT_DIR$/tests-spring-udemy/03-sw-planet-api_integracao/sw-planet-api (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/tests-spring-udemy/02-sw-planet-api_subcutaneos/sw-planet-api (2).iml" filepath="$PROJECT_DIR$/tests-spring-udemy/02-sw-planet-api_subcutaneos/sw-planet-api (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/tests-spring-udemy/01-sw-planet-api_unidade/sw-planet-api (3).iml" filepath="$PROJECT_DIR$/tests-spring-udemy/01-sw-planet-api_unidade/sw-planet-api (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/worksspace-tests.iml" filepath="$PROJECT_DIR$/.idea/worksspace-tests.iml" />
+    </modules>
+  </component>
+</project>

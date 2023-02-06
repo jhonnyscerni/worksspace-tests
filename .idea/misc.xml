@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/dscatalog/backend-dscatalog/pom.xml" />
+        <option value="$PROJECT_DIR$/dscatalog/backend-dscatalog_ant/pom.xml" />
+        <option value="$PROJECT_DIR$/cadastro-clientes/pom.xml" />
+        <option value="$PROJECT_DIR$/beer_api_digital_innovation_one/pom.xml" />
+        <option value="$PROJECT_DIR$/exemplo-test-spring-main/pom.xml" />
+        <option value="$PROJECT_DIR$/tests-spring-udemy/sw-planet-api/pom.xml" />
+        <option value="$PROJECT_DIR$/tests-spring-udemy/sw-planet-api_integracao/pom.xml" />
+        <option value="$PROJECT_DIR$/tests-spring-udemy/sw-planet-api_subcutaneos/pom.xml" />
+        <option value="$PROJECT_DIR$/tests-spring-udemy/sw-planet-api-completo/pom.xml" />
+        <option value="$PROJECT_DIR$/tests-spring-udemy/03-sw-planet-api_integracao/pom.xml" />
+        <option value="$PROJECT_DIR$/tests-spring-udemy/02-sw-planet-api_subcutaneos/pom.xml" />
+        <option value="$PROJECT_DIR$/tests-spring-udemy/01-sw-planet-api_unidade/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_18" default="true" project-jdk-name="openjdk-18" project-jdk-type="JavaSDK" />
+</project>
